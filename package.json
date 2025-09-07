@@ -1,0 +1,21 @@
+{
+  "name": "tailwind-alternatives",
+  "version": "0.0.0",
+  "description": "A curated collection of the best alternatives to Tailwind CSS from tinyhref.com",
+  "keywords": [
+    "tailwind-alternatives",
+    "alternative",
+    "awesome",
+    "lists",
+    "tinyhref"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "tinyhref.com",
+    "website": "https://tinyhref.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhref/tailwind-alternatives"
+  }
+}
